@@ -15,7 +15,6 @@ Dosyaya özel isim vermek için url'yi | ile ayrılmış olarak gönderin.
 <i>url|özel_adı.mp4</i>
 
 <b>Not : </b><i>Hardmux'ta yalnızca ingilizce yazı tiplerinin desteklendiğini lütfen unutmayın, diğer komut dosyaları videoda boş bloklar olarak gösterilecektir!</i> 
-<a href="https://github.com/tellybots/video-sub-merger">Repo URL</a>"""
 
 
 

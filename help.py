@@ -5,17 +5,16 @@ class Help(object):
 
     HELP_USER = "??"
 
-    HELP_TEXT ="""<b>Welcome to the Help Menu</b>
+    HELP_TEXT ="""<b>Yardım Menüsüne Hoş Geldiniz</b>
 
-1.) Send a Video file or url.
-2.) Send a subtitle file (ass or srt)
-3.) Choose you desired type of muxing!
+1.) Bir Video dosyası veya url gönderin.
+2.) Bir altyazı dosyası gönderin (ass veya srt)
+3.) İstediğiniz muxing türünü seçin!
 
-To give custom name to file send it with url seperated with |
-<i>url|custom_name.mp4</i>
+Dosyaya özel isim vermek için url'yi | ile ayrılmış olarak gönderin.
+<i>url|özel_adı.mp4</i>
 
-<b>Note : </b><i>Please note that only english type fonts are supported in hardmux other scripts will be shown as empty blocks on the video!</i>
-
+<b>Not : </b><i>Hardmux'ta yalnızca ingilizce yazı tiplerinin desteklendiğini lütfen unutmayın, diğer komut dosyaları videoda boş bloklar olarak gösterilecektir!</i> 
 <a href="https://github.com/tellybots/video-sub-merger">Repo URL</a>"""
 
 
